@@ -1,2 +1,2 @@
-# Pythonbasic
+# Pythonbasico
 Sesiones de python
